@@ -1,6 +1,6 @@
 # first_project
 This is my first project on Software Carpentry.
-It contains my first programming exercises.
+It contains my first programming exercises. More or Less.
 
 ## Usage
 Description.
