@@ -11,6 +11,9 @@ Description of 1st tool.
 ### Second tool
 Description of second tool.
 
+### Third tool
+Description of a fancy new tool.
+
 ## Things to do in the future
 
 - item1
